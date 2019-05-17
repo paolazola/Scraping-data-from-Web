@@ -65,10 +65,10 @@ for (i in 1:length(quotes)){
 #--------------------------------------------------------------------------
 #                    API (TWITTER) 
 #--------------------------------------------------------------------------
-consumer_key <- 'uItdrxY1ueq8yzw8DWKBepD5Q'
-consumer_secret <- 'NV4AxVGF1V1PEXEXyYJMEXmNTpj9bcjyedHTiuPSoeY89BS62J'
-access_token <- '837262025990471681-xKBZiVUH5aP0mJr0qMh4s9OaaS7zJi6'
-access_secret <-'OeAVozQSZwxnZElHdmKE5v3jskeiivEqsySHH0lKasUkW'
+consumer_key <- ''
+consumer_secret <- ''
+access_token <- ''
+access_secret <-''
 setup_twitter_oauth(consumer_key,consumer_secret,access_token,access_secret)
 
 
